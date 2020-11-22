@@ -1,2 +1,2 @@
 # gitdemo
-This is tutorial
+This is tutorial and we are learning python
